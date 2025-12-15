@@ -236,8 +236,8 @@ docker run hello-world
 ### Step 4: Clone This Repository
 
 ```bash
-git clone https://github.com/prakash-aryan/lecture6-ros2-demo.git
-cd lecture6-ros2-demo
+git clone https://github.com/prakash-aryan/lecture6-ros2demo.git
+cd lecture6-ros2demo
 ```
 
 ---
